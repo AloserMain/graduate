@@ -1,0 +1,7 @@
+001
+Element	(keV)	Mass%	Error%	Atom%	Compound	Mass%	Cation	K
+N  K
+Mg K	1.253	0.79	0.21	0.90				0.7860
+Al K	1.486	94.37	0.24	96.99				95.0234
+Cu K	8.040	4.85	4.97	2.12				4.1906
+Total		100.00		100.00
